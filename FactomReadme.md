@@ -27,8 +27,9 @@ ANCHORING done by the FACTOM in the following ways -
 * And finally the DIRECTORY BLOCKS are pushed into the blockchain.
 
 The following Diagram explains the ANCHORING PROCESS--
-#### image page 15 [WHITE PAPER](https://github.com/FactomProject/FactomDocs/raw/master/Factom_Whitepaper.pdf)
-![Factom Architecture](ISE_SEMINAR_FACTOM/factom_images/Factom.png?raw=true)
+[WHITE PAPER](https://github.com/FactomProject/FactomDocs/raw/master/Factom_Whitepaper.pdf)
+<img width="817" alt="factom" src="https://cloud.githubusercontent.com/assets/23038155/21824495/f943b758-d77f-11e6-9741-cbcc8aca4969.png">
+
 
 
 
