@@ -102,9 +102,12 @@ $ cd bin
 $ ./factom-walletd
 ```
 ### image factom-walletd
+<img width="569" alt="walletd" src="https://cloud.githubusercontent.com/assets/23038155/21824934/d1b52e5e-d781-11e6-9fd2-c10ee5f97642.png">
+
 
 Now in the Third terminal open the factom-cli import address Fs1KWJrpLdfucvmYwN2nWrwepLn8ercpMbzXshd1g8zyhKXLVLWj. 
 This is the address which has FACTOIDS loaded. Its only for the test purpose. 
+<img width="567" alt="factom-cli" src="https://cloud.githubusercontent.com/assets/23038155/21824937/d6177114-d781-11e6-86fb-4794195ea0e0.png">
 commands 
 ```sh
 $ cd go
