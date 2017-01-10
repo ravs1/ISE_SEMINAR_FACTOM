@@ -86,7 +86,10 @@ $ cd go
 $ cd bin
 $ ./factomd 
 ````
-### image factomd
+<img width="1235" alt="factomnode1" src="https://cloud.githubusercontent.com/assets/23038155/21824648/a6366f28-d780-11e6-945f-a9f75a1080af.png">
+<img width="1249" alt="factomnide2" src="https://cloud.githubusercontent.com/assets/23038155/21824652/aa71a0e4-d780-11e6-9d26-338d4d93474e.png">
+<img width="1250" alt="factomnde3" src="https://cloud.githubusercontent.com/assets/23038155/21824658/b1a9f546-d780-11e6-8640-695fc93df7fa.png">
+<img width="1264" alt="factomnode4" src="https://cloud.githubusercontent.com/assets/23038155/21824659/b329e64c-d780-11e6-95ab-36b3c20bf55f.png">
 we can check whether our node is running or not by pasting http://localhost:8090 in browser. It will display the GUI displaying the running node and transactions taking place. Wait for the node to get 100% sync and then start factom-walletd.
 ### image guinode
 
