@@ -28,7 +28,7 @@ ANCHORING done by the FACTOM in the following ways -
 
 The following Diagram explains the ANCHORING PROCESS--
 #### image page 15 [WHITE PAPER](https://github.com/FactomProject/FactomDocs/raw/master/Factom_Whitepaper.pdf)
-![](https://www.dropbox.com/s/zcrqlqtt7shwkfd/Factom.png?dl=0)
+![Factom Architecture](ISE_SEMINAR_FACTOM/factom_images/Factom.png?raw=true)
 
 
 
